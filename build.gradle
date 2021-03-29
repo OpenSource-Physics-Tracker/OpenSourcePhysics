@@ -7,7 +7,17 @@ version '1.0 on JDK 11'
 
 repositories {
     mavenCentral()
+    // Added JitPack for working with dependencies via GitHub
+    maven { url 'https://jitpack.io' }
 }
 
 dependencies {
+    compile group: 'com.nativelibs4java', name: 'bridj', version: '0.7.0'
+
+    implementation 'com.github.OpenSource-Physics-Tracker:AppleJavaExstensions:70fb48e5fe'
+    implementation 'com.github.OpenSource-Physics-Tracker:FFMpeg:ef6949741c'
+
+
+    compileOnly 'org.projectlombok:lombok:1.18.8'
+    annotationProcessor 'org.projectlombok:lombok:1.18.8'
 }
