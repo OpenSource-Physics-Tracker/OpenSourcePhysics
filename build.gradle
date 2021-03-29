@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+}
+
+group 'org.opensourcephysics'
+version '1.0 on JDK 11'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
