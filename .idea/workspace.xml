@@ -4,53 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="306302a2-5a08-497d-bf8c-724ebeb054db" name="Default Changelist" comment="Add jars and build files for work with JitPack in Tracker v2">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+    <list default="true" id="306302a2-5a08-497d-bf8c-724ebeb054db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/controls/OSPControl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/controls/OSPControl$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/controls/OSPLog$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/controls/OSPLog$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/controls/OSPLog$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/controls/OSPLog$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/controls/OSPLog$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/controls/OSPLog$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/media/core/Filter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/media/core/Filter$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/media/core/VideoFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/media/core/VideoFrame$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/media/core/VideoFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/media/core/VideoFrame$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/media/core/VideoGrabber$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/media/core/VideoGrabber$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/media/core/VideoPlayer$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/media/core/VideoPlayer$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataTool$34.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataTool$34.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolPropsTable$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolPropsTable$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolPropsTable$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolPropsTable$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolPropsTable$MarkerEditor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolPropsTable$MarkerEditor$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolTab$12$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolTab$12$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolTab$29.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolTab$29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolTab$31.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolTab$31.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolTab$36.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolTab$36.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolTab$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolTab$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolTab$40.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DataToolTab$40.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DatasetCurveFitter$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/DatasetCurveFitter$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/FunctionPanel$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/FunctionPanel$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/JarTreeModel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/JarTreeModel$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/JarTreeModel$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/JarTreeModel$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$28.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$28.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$29.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$30.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$30.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$31.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$31.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$32.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$32.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$33.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$33.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$34.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$34.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$35.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchBuilder$35.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchNode$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchNode$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchNode$DisplayTab$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LaunchNode$DisplayTab$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/Launcher$53.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/Launcher$53.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LibraryBrowser$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LibraryBrowser$17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LibraryTreePanel$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LibraryTreePanel$14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LibraryTreePanel$15$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LibraryTreePanel$15$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LibraryTreePanel$24.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/opensourcephysics/tools/LibraryTreePanel$24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/OpenSourcePhysics-1.0 on JDK 11.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/OpenSourcePhysics-1.0 on JDK 11.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +83,18 @@
     <property name="project.structure.side.proportion" value="0.46896553" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.OpenSourcePhysics [build]">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OpenSourcePhysics [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -148,9 +116,31 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="OpenSourcePhysics [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.OpenSourcePhysics [build]" />
+        <item itemvalue="Gradle.OpenSourcePhysics [clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +161,9 @@
       <workItem from="1617043365793" duration="416000" />
       <workItem from="1617044358512" duration="320000" />
       <workItem from="1617091196802" duration="15000" />
-      <workItem from="1617121583831" duration="615000" />
+      <workItem from="1617121583831" duration="887000" />
+      <workItem from="1617124970923" duration="12000" />
+      <workItem from="1617125017812" duration="247000" />
     </task>
     <task id="LOCAL-00001" summary="Adding all files on github">
       <created>1617042492595</created>
@@ -194,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617044671448</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add jars and build files for work with JitPack in Tracker v2">
+      <created>1617124655475</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617124655475</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

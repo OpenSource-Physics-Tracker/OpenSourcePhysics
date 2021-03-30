@@ -3,16 +3,14 @@ plugins {
 }
 
 group 'org.opensourcephysics'
-version '1.0 on JDK 11'
+version '1.0'
 
 repositories {
     mavenCentral()
-    // Added JitPack for working with dependencies via GitHub
     maven { url 'https://jitpack.io' }
 }
 
 dependencies {
     compile group: 'com.nativelibs4java', name: 'bridj', version: '0.7.0'
-
-    implementation 'com.github.OpenSource-Physics-Tracker:FFMpeg:ef6949741c'
+    implementation 'com.github.OpenSource-Physics-Tracker:ffmpeg:ef6949741c'
 }
